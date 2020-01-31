@@ -1,0 +1,11 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(photo_data_analysis.py:1085): Gdk-CRITICAL **: 02:00:12.489: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+2020-01-30_11
+Feeder_P10_D4
+/mnt/Videos_GRETI/field_season_winter_2020/Feeder_P10_D4_2020-01-30_11/Feeder_P10_D4_2020-01-30_07-16-34
+<_io.BufferedReader name='master_list_outdoor.pkl'>
+Unable to init server: Could not connect: Connection refused
+
+(photo_data_analysis.py:1085): Gtk-WARNING **: 02:00:12.580: cannot open display: 
