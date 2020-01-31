@@ -429,3 +429,7 @@ def decode(image_dir,data_filepath):
 
     cv2.destroyAllWindows()
 
+
+
+#thresh = cv2.cvtColor(thresh, cv2.COLOR_GRAY2BGR)
+#display_img = np.concatenate((display_img))
